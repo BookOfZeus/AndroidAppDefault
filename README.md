@@ -1,4 +1,4 @@
-=Default Android Application
+#Default Android Application
 
 Source code of the default Android Application.
 
